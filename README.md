@@ -5,4 +5,5 @@ commit message
 3. 08-15 0815 test amend commit
 4. 08-15 0815 add README.md text
 5. 08-28 develop modify
-6. 08-28 fix modify
+6. 08-28 develop modify
+7. 08-28 fix modify
