@@ -11,4 +11,6 @@ commit message
 9. 08-28 fix modify
 10. 08-28 develop modify
 11. 08-28 fix modify
-
+12. 09-03 fix commit
+13. 09-03 fix-debug commit
+14. 09-14 fix-test commit
